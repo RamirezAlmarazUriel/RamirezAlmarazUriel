@@ -15,8 +15,10 @@ hola👋<h2> soy uriel ramirez almaraz, soy estudiante de la escuela de ciencias
 
 - 🌱 java en general.
 
+- 🛠 mantenimiento de equipos de computo.
 
-<h3>🛠 Lenguajes que ocupo </h3>
+
+<h3>🛠 Lenguajes que manejo</h3>
 
 
 - 💻  | Java | C++ | C | MySQL
