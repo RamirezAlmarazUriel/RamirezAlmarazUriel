@@ -1,4 +1,4 @@
-hola👋<h2> soy uriel ramirez almaraz, soy estudiante de la escuela de ciencias en licenciatura en computacion </h2>
+hola👋<h2> soy uriel ramirez almaraz,  estudiante de la escuela de ciencias en licenciatura en computacion </h2>
 
 <br/>
 
